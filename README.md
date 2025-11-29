@@ -101,7 +101,7 @@
 ## 🧪 Hackathons & Innovation Activities
 
 - **Innovation Fest 2024 – AI Category**: Runners-up  
-- Multiple hackathons and innovation challenges in AI, QA automation, streaming, and healthcare  
+- Participation in multiple AI/QA hackathons and innovation challenges across streaming, automation, and healthcare  
 - DevSecCon 2024 proposal: “Harnessing Snyk to Conquer Vulnerability Challenges in AI’s Quantum Leap”  
 
 ---
@@ -122,24 +122,42 @@
 
 ## 🎓 Certifications
 
-- **PMP**, Project Management Professional (PMI) – active member  
+- **ISTQB Certified Professional**  
+- **CSTE Certified Professional**  
 - **Oracle Cloud Infrastructure 2024 Generative AI Professional**  
-- **Business Edge Leadership Certification**  
+- **AWS Certified Solutions Architect**  
+- **Migrating to AWS** (training / certification track)  
+- **Project Management Professional (PMP)** – PMI, active member  
+- **DevOps Certified Project Manager**  
+- **Leading SAFe Agilist**  
 - **Certified SAFe® 6 Scrum Master**  
+- **Business Edge Leadership Certification**  
 
 ---
 
-## 🧰 Technical Focus
+## 🧰 Technical Skills
 
-**Languages:** `Java` · `Python` · `C#` · `TypeScript` · `JavaScript` · `SQL`  
+- **Test Automation:** Selenium, Playwright, Appium, TestNG, Cucumber, JMeter, UFT, SOAP UI Pro, Selenium Grid, Perfecto Mobile, BrowserStack, SauceLabs, Device Anywhere, EggPlant, SeeTest  
+- **Test Management:** Jira, Rally, ALM, ClearQuest, TFS, CVS, Xray  
+- **CI/CD & Version Control:** Jenkins, Git, Bamboo, GitLab CI/CD, Azure DevOps, Jenkins Pipeline  
+- **Programming & Scripting:** Java, C#, Node.js, Groovy, JavaScript, VBScript, Shell Script, Ant Script, SQL, HTML, CSS  
+- **Agile Methodology:** Scrum, Kanban, Agile, Scaled Agile, ATDD, TDD, BDD  
+- **Performance & Load Testing:** JMeter, LoadRunner, TPTP Servers, JConsole  
+- **Database Testing:** MS SQL Server, MySQL, PostgreSQL, Oracle, IBM DB2  
+- **Cloud & Infrastructure:** AWS, Azure, GCP, Windows, Linux, macOS, iOS, Android  
+- **Security Testing:** SonarQube, Veracode, OWASP ZAP, penetration testing, vulnerability assessments  
+- **API Testing:** REST APIs, SOAP, JD Edwards Orchestrator, Postman, RestAssured  
+- **SAP Testing:** SAP R/3, SAP NetWeaver, SAP TAO, Tricentis Tosca  
+- **Test Reporting & Analytics:** Splunk, Grafana, Dynatrace  
+- **Automation Frameworks:** Hybrid, Page Object Model (POM), Selenium WebDriver frameworks, JD Edwards UI, TestNG, Cucumber, Selenium Grid  
+- **Server Configuration:** JBoss, WebSphere, Tomcat, IIS  
+- **Build & Environment Management:** Ant scripts, shell scripts, environment setup and configuration  
 
-**Test Automation:** `Selenium` · `Playwright` · `Appium` · `RestAssured` · `Cucumber` · `JUnit` · `TestNG`  
+---
 
-**Architecture & Practices:** `SDD` · `BDD` · `TDD` · `Microservices` · `CI/CD` · `Pairwise / Combinatorial Testing`  
+## 🧩 Technical Focus (one line)
 
-**Cloud & DevOps:** `AWS` · `GCP` · `Oracle Cloud` · `Jenkins` · `GitHub Actions` · `Docker`  
-
-**AI / Data / Media:**  `LLMs` · `NLP` · `Generative AI` · `Marketing Analytics` · `QoE Analytics` · `Streaming & OTT`  
+**AI-driven quality engineering and full-stack test automation across functional, performance, security, and cloud-native systems for digital media and streaming platforms.**
 
 ---
 
