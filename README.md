@@ -161,16 +161,6 @@
 
 ---
 
-## 🔍 For Recruiters & EB1A Reviewers
-
-**Field:** AI-Driven Quality Engineering and Software Testing Automation in Digital Media  
-
-- National/international recognition including **PractiTest QA Leader Award nomination**  
-- Multiple patents and trade secrets in AI and automation for media and streaming  
-- Bestselling technical book and peer-reviewed publications on AI, ambient intelligence, and automation  
-- Peer reviewer, keynote speaker, and session chair at international AI/ML and testing conferences (ICIRAIDS, STAREAST, AI4Software, IOTSEC, etc.)  
-
----
 
 ## 📫 Contact
 
